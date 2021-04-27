@@ -99,7 +99,7 @@
                             </ul>
                         </li>
 {{--                        <li><a href="{{route('index.radio')}}"><div>Radio</div></a></li>--}}
-                        <li><a href="../koel/public/index.html"><div>Player</div></a></li>
+                        <li><a href="../../koel/public/index.php"><div>Player</div></a></li>
 
                         <li><a href="#"><div>Discover</div></a>
                             <ul>
